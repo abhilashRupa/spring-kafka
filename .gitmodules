@@ -1,0 +1,6 @@
+[submodule "kafka-demos"]
+	path = kafka-demos
+	url = git@github.com:abhilashRupa/kafka-demos.git
+[submodule "kafka-exercises"]
+	path = kafka-exercises
+	url = git@github.com:abhilashRupa/kafka-exercises.git
