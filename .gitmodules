@@ -1,6 +1,6 @@
 [submodule "kafka-demos"]
-	path = kafka-demos
-	url = git@github.com:abhilashRupa/kafka-demos.git
+	path = spring-kafka-demos
+	url = git@github.com:abhilashRupa/spring-kafka-demos.git
 [submodule "kafka-exercises"]
-	path = kafka-exercises
-	url = git@github.com:abhilashRupa/kafka-exercises.git
+	path = spring-kafka-exercises
+	url = git@github.com:abhilashRupa/spring-kafka-exercises.git
