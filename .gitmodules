@@ -5,5 +5,5 @@
 	path = kafka-exercises
 	url = git@github.com:abhilashRupa/kafka-exercises.git
 [submodule "spring-kafka-private-demos"]
-	path = spring-kafka-private-demos
+	path = kafka-demos
 	url = git@github.com:abhilashRupa/spring-kafka-private-demos.git
