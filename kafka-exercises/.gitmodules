@@ -1,0 +1,9 @@
+[submodule "Parking_Management_Producer"]
+	path = Parking_Management_Producer
+	url = git@github.com:abhilashRupa/Parking_Management_Producer.git
+[submodule "Parking_Management_Consumer"]
+	path = Parking_Management_Consumer
+	url = git@github.com:abhilashRupa/Parking_Management_Consumer.git
+[submodule "Parking_Management_ConsumerRecord"]
+	path = Parking_Management_ConsumerRecord
+	url = git@github.com:abhilashRupa/Parking_Management_ConsumerRecord.git
