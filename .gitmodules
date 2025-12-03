@@ -1,0 +1,15 @@
+[submodule "abhirail_sender"]
+	path = abhirail_sender
+	url = git@github.com:abhilashRupa/abhirail_sender.git
+[submodule "abhirail_receiver"]
+	path = abhirail_receiver
+	url = git@github.com:abhilashRupa/abhirail_receiver.git
+[submodule "abhirail_ConsumerRecord"]
+	path = abhirail_ConsumerRecord
+	url = git@github.com:abhilashRupa/abhirail_ConsumerRecord.git
+[submodule "abhirail_eventstream_sender"]
+	path = abhirail_eventstream_sender
+	url = git@github.com:abhilashRupa/abhirail_eventstream_sender.git
+[submodule "abhirail_eventstream_receiver"]
+	path = abhirail_eventstream_receiver
+	url = git@github.com:abhilashRupa/abhirail_eventstream_receiver.git
